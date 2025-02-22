@@ -11,4 +11,3 @@ dependencies:
   - matplotlib
   - jupyterlab
   - conda
-prefix: C:\Users\marco\miniconda3\envs\dstoolbox
